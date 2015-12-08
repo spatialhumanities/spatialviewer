@@ -13,6 +13,7 @@ These and some more software components are Repositories of the Github Organizat
 Demo Versions of the Spatial Viewer can be found on
 * http://ibr.spatialhumanities.de/spatialviewer/oberwesel/ and
 * http://ibr.spatialhumanities.de/spatialviewer/gamma/  
+
 To learn how to use the Spatial Viewer visit our [Spatial Viewer Wiki](../../wiki) or watch the video tutorials.
 
 ## Credits  

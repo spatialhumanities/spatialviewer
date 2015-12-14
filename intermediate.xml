@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<genericviewer version="0.1">
+	<spatialcontext>
+		<name>Gamma</name>
+		<place>i3mainz, C0.04</place>
+		<date>2014-07-09</date>
+	</spatialcontext>
+	<floorplans>
+		<floorplan>
+			<filename>http://ibr.spatialhumanities.de/pano/gamma/groundplan_BW.png</filename>
+			<description>Grundriss</description>
+			<transformation params="18.7591844660194,0.499033009708725,-3.57261747572816,0,-0.623546925566348,-18.0482627831715,9.9135430420712,0,0,0,1,0,0,0,0,1"/>
+		</floorplan>
+	</floorplans>
+	<viewpoints>
+		<trans id="01-0" transl-x="0.0" transl-y="0.0" transl-z="0.0" rot-x="0.0" rot-y="0.0" rot-z="0.0" scale="1.0" />
+		<trans id="02-0" transl-x="5.205" transl-y="-1.806" transl-z="-0.012" rot-x="0.0033950930007957095" rot-y="0.005432148801273134" rot-z="-2.2633953338638064" scale="1.0" />
+		<trans id="03-0" transl-x="9.549" transl-y="2.993" transl-z="0.016" rot-x="0.004091725463765978" rot-y="-0.0034717670601650723" rot-z="1.2399168072018116" scale="1.0" />
+
+		<rgbtrans id="01-0" transl-x="-0.241309" transl-y="0.135318" transl-z="-0.03152" rot-x="-0.424597" rot-y="-0.592978" rot-z="-3.906047" scale="0.999367" />
+		<rgbtrans id="02-0" transl-x="-0.046508" transl-y="0.055169" transl-z="0.005956" rot-x="-0.045037" rot-y="0.329797" rot-z="184.107923" scale="0.999767" />
+		<rgbtrans id="03-0" transl-x="-0.003409" transl-y="0.016554" transl-z="-0.027971" rot-x="-0.539482" rot-y="-0.526131" rot-z="164.397524" scale="1.000118" />
+
+		<name>$</name>
+		<ptgfile>$.PTG</ptgfile>
+		<remimg>http://ibr.spatialhumanities.de/pano/gamma/rem/$_0</remimg>
+		<remimg>http://ibr.spatialhumanities.de/pano/gamma/rem/$_1</remimg>
+		<remimg>http://ibr.spatialhumanities.de/pano/gamma/rem/$_2</remimg>
+		<remimg>http://ibr.spatialhumanities.de/pano/gamma/rem/$_3</remimg>
+		<remimg>http://ibr.spatialhumanities.de/pano/gamma/rem/$_4</remimg>
+		<remimg>http://ibr.spatialhumanities.de/pano/gamma/rem/$_5</remimg>
+
+		<rgbimg>http://ibr.spatialhumanities.de/pano/gamma/rgb/$_0</rgbimg>
+		<rgbimg>http://ibr.spatialhumanities.de/pano/gamma/rgb/$_1</rgbimg>
+		<rgbimg>http://ibr.spatialhumanities.de/pano/gamma/rgb/$_2</rgbimg>
+		<rgbimg>http://ibr.spatialhumanities.de/pano/gamma/rgb/$_3</rgbimg>
+		<rgbimg>http://ibr.spatialhumanities.de/pano/gamma/rgb/$_4</rgbimg>
+		<rgbimg>http://ibr.spatialhumanities.de/pano/gamma/rgb/$_5</rgbimg>
+	</viewpoints>
+</genericviewer>

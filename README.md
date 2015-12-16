@@ -14,7 +14,7 @@ Demo Versions of the Spatial Viewer can be found on
 * http://ibr.spatialhumanities.de/spatialviewer/oberwesel/ and
 * http://ibr.spatialhumanities.de/spatialviewer/gamma/  
 
-To learn how to use the Spatial Viewer visit our [Spatial Viewer Wiki](../../wiki) or watch the video tutorials.
+To learn how to use the Spatial Viewer visit our [Spatial Viewer Wiki](../../wiki) or watch the [Video Tutorials](https://www.youtube.com/watch?v=T0QVVwSYFCk&list=PLtPNdgTTebdo-_PXlHKeWaFygZ1qJePrv).
 
 ## Credits  
 Software Developers:

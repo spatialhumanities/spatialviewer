@@ -4,8 +4,8 @@ The Spatial Viewer was developed based on the "[Generic Viewer](http://oberwesel
 Find the [repository of the Generic Viewer](https://github.com/spatialhumanities/genericviewer) in the organization [Spatialhumanities](https://github.com/spatialhumanities) on Github.  
 
 Part of the Client/Server application of the Spatial Viewer are the following components:
-* 
-* 
+* Viewer - the client component: https://github.com/spatialhumanities/spatialviewer_frontend
+* Spatialstore - the server component: https://github.com/spatialhumanities/spatialviewer_spatialstore
 
 These and some more software components are Repositories of the Github Organization [Spatialhumanities](https://github.com/spatialhumanities).
 
